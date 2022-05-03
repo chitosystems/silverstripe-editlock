@@ -3,7 +3,7 @@
 	"description": "Prevents a CMS user from editing a record that another CMS user is currently editing",
 	"type": "silverstripe-module",
 	"keywords": ["silverstripe", "edit", "lock", "checkout"],
-	"license": "BSD License",
+	"license": "MIT",
 	"homepage": "http://github.com/chitosystems/silverstripe-editlock",
 	"authors": [
         {
